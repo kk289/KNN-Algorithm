@@ -1,6 +1,6 @@
 Consider the training and test data: Training-data.csv and Test-data.csv, respectively, for a classification problem with two classes.
 
-There are two separate two variables x1 and x2 using classification algorithm kNN.
+There are two separate variables x1 and x2 using classification algorithm kNN.
 
 1. Fit KNN with K = 1,2,...,30,35,...,100.
   - (From Line 75 to 95 (kNN(100).R))
